@@ -1,0 +1,13 @@
+.doggos{
+    font-weight: bold ;
+}
+
+.addbtn{
+    background-color: aqua ;
+    cursor: pointer ;
+}
+
+.addbtn:active{
+    background-color: #bbbcbe ;
+  }
+
